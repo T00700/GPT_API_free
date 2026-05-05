@@ -10,7 +10,7 @@
 
 [快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [申请内测免费Key](https://api.chatanywhere.tech/v1/oauth/free/render) / [支持付费Key](https://api.chatanywhere.tech/#/shop/) / [服务可用性](https://status.chatanywhere.tech/)
 
-[QQ群: 1078874657](https://qm.qq.com/cgi-bin/qm/qr?k=_zvJ_azT-QfxSvbgsag7QHWASA_p7znW&jump_from=webapi&authKey=lNJokVrGWKegX/DLQ7gzEwTixzpoMJiUDg80e74w1uXV9xIhyEuUu2Dx7WkbqWk3)
+[QQ群: 1080471642](https://qm.qq.com/cgi-bin/qm/qr?k=UK3uy_oIge2Hu5s6MYMiFKMm4FMYY6pX&jump_from=webapi&authKey=u7UzKKipRVI6UiMGdKVepJ9SIqbKwKxuUKlgOJoDS3urEnCpDG+WYrHG4VcXS0Ey)
 
 [![](https://status.chatanywhere.org/api/badge/6/uptime/24?labelPrefix=GPT:)](https://status.chatanywhere.tech/)
 [![](https://status.chatanywhere.org/api/badge/10/uptime/24?labelPrefix=GPT-CA系列:)](https://status.chatanywhere.tech/)
